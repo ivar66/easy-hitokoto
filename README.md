@@ -1,6 +1,6 @@
 <h1 align="center">Easy Hitokoto</h1>
 
-<p align="center">支持快捷服务器端返回一条诗词，动漫等语句</p>
+<p align="center">支持服务器端快捷返回一条诗词，动漫等语句</p>
 
 
 ## 环境需求
