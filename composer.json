@@ -1,0 +1,22 @@
+{
+    "name": "ivar/easy-hitokoto",
+    "description": "easy to get one hitokoto",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ivar",
+            "email": "625079860@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "php": ">=5.6",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ivar\\EasyHitokoto\\": "src"
+        }
+    }
+}
